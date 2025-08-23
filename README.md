@@ -10,7 +10,7 @@
 * **Mentor:** Parsa Phorbanian
 * **School:** Parnian
 * **Session:** Tahamtan
-* **demo-online:**(https://www.linkedin.com/in/reza-warrior-53877a37b/)
+* **demo-online:** https://rezafrontend.github.io/tahamtan/
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## 🚀 Preview
 
-[all tahamtan projects](https://rezafrontend.github.io/tahamtan/)
+https://rezafrontend.github.io/tahamtan/
 
 ---
 
