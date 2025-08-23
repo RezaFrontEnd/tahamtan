@@ -1,9 +1,5 @@
 # 🎶 all tahamtan projects
-
-> A stylish demo project with footer details
-
 ---
-
 ## 📌 Project Info
 
 * **Project Name:** all tahamtan projects
@@ -11,7 +7,6 @@
 * **School:** Parnian
 * **Session:** Tahamtan
 * **demo-online:** https://rezafrontend.github.io/tahamtan/
-
 ---
 
 ## 📱 Contact
@@ -19,7 +14,7 @@
 * 📞 **Phone:** 09370256305
 * 📧 **Email:** [reza.ahmadi350@gmail.com](mailto:reza.ahmadi350@gmail.com)
 * 📸 **Instagram:** [reza\_ahmadi\_warrior](https://www.instagram.com/reza_ahmadi_warrior)
-* 💼 **LinkedIn:(https://www.linkedin.com/in/reza-warrior-53877a37b/)
+* 💼 **Linkedin:**(https://www.linkedin.com/in/reza-warrior-53877a37b/)
 
 ---
 
