@@ -14,8 +14,6 @@
 * 📞 **Phone:** 09370256305
 * 📧 **Email:** [reza.ahmadi350@gmail.com](mailto:reza.ahmadi350@gmail.com)
 * 📸 **Instagram:** [reza\_ahmadi\_warrior](https://www.instagram.com/reza_ahmadi_warrior)
-* 💼 **Linkedin:**(https://www.linkedin.com/in/reza-warrior-53877a37b/)
-
 ---
 
 ## 🚀 Preview
